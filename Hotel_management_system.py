@@ -1,7 +1,5 @@
-# Project Name          : Hotel Management System
-# Made by               : rakesh kumar
-# session               : your session name
-# roll  no              : your roll no
+
+
 
 import mysql.connector
 from datetime import date
